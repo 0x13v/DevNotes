@@ -117,7 +117,7 @@ function installdependencies() {
 while true; do
     clear;
     drawTitellogo
-    echo "Select option to run or 'q' to exit:"
+    echo "Select option to run: "
     select option in "${!auto_functions[@]}"; do
     if [[ -n "${auto_functions[$option]}" ]]; then
         function_name="${auto_functions[$option]}"
