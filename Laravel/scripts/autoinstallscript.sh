@@ -1,5 +1,16 @@
 #!/bin/bash
 
+# ----------------------------------------------------------------------------
+# This Bash script automates the setup and initialization of a development
+# environment for a web application using Laravel, a PHP web framework.
+# The script provides a menu-driven interface to perform various tasks
+# such as installing dependencies, managing environment files, generating
+# application keys, and running database migrations.
+#
+# Author: 0x13v
+# Date: October 11, 2023
+# ----------------------------------------------------------------------------
+
 #declare auto functions ["key text"]="function name"
 declare -A auto_functions
 auto_functions=(
