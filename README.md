@@ -1,13 +1,14 @@
 ### About
 ```text
-This repository is a collection of my development notes and scripts. 
-I use it to save things that I find useful, or that I want to remember. 
-I also use it to store scripts that I use regularly, or that I'm working on.
+- This repository is a collection of my development notes and scripts. 
+- I use it to save things that I find useful, or that I want to remember. 
+- I also use it to store scripts that I use regularly, or that I'm working on.
 ```
 ### Structure
 
 The repository is organized into the following directories:
 
+- `Markdown_Templets`: This directory contains my markdown templets pages. I use markdown (.md) files to write it.
 - `notes`: This directory contains my development notes. I use markdown (.md) files to write my notes.
 - `scripts`: This directory contains my scripts. I use a variety of programming languages for my scripts, but I mostly use Bash.
 
