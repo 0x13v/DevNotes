@@ -8,9 +8,9 @@
 
 The repository is organized into the following directories:
 
-- `Markdown_Templets`: This directory contains my markdown templets pages. I use markdown (.md) files to write it.
-- `notes`: This directory contains my development notes. I use markdown (.md) files to write my notes.
-- `scripts`: This directory contains my scripts. I use a variety of programming languages for my scripts, but I mostly use Bash.
+- `Markdown_Templets`: This directory contains my markdown templets pages.
+- `notes`: This directory contains my development notes..
+- `scripts`: This directory contains my scripts. (I use a variety of programming languages for my scripts, but I mostly use Bash).
 
 ### How to use
 
